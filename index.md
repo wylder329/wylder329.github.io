@@ -19,7 +19,11 @@
 >se unit [cny/usd]  用途：设置货币名称为CNY或USD
 
 #问题
->我们仍旧许多问题
+>我们仍旧许多问题：
+
 >不稳定容易崩服
 
 >服务器重启后会重置玩家余额
+
+#下载
+你可以下载插件在https://github.com/wylder329/wylder329-s-repository/raw/main/SimpleEconomy-1.0-SNAPSHOT.jar上
