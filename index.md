@@ -26,4 +26,6 @@
 >服务器重启后会重置玩家余额
 
 #下载
->你可以下载插件在https://github.com/wylder329/wylder329-s-repository/raw/main/SimpleEconomy-1.0-SNAPSHOT.jar上
+>https://github.com/wylder329/wylder329-s-repository/raw/main/SimpleEconomy-1.0-SNAPSHOT.jar
+
+>对于国内，github可能难以使用，你可以尝试使用Watt Toolkit，它是一款可以免费加速github的软件
