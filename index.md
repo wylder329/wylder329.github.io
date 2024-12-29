@@ -27,5 +27,3 @@
 
 #下载
 >https://github.com/wylder329/wylder329-s-repository/raw/main/SimpleEconomy-1.0-SNAPSHOT.jar
-
->对于国内，github可能难以使用，你可以尝试使用Watt Toolkit，它是一款可以免费加速github的软件
